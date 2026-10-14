@@ -12,14 +12,14 @@
   },
   "moveup-agenci-ai": {
     "name": "moveUP – Agenci AI",
-    "version": "1.1.0",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-agenci-ai-1.1.0.zip",
+    "version": "1.1.1",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-agenci-ai-1.1.1.zip",
     "requires": "6.2",
     "requires_php": "7.4",
     "tested": "6.8",
     "date": "2026-10-14",
     "description": "Strona czytelna dla asystentów AI: wersja Markdown każdej strony (nagłówek Accept: text/markdown albo ?format=markdown), plik /llms.txt z mapą strony, reguły dla botów AI i Content-Signal w robots.txt. Nic nie dokłada do zwykłych stron poza jednym znacznikiem <link>.",
-    "changelog": "1.1.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+    "changelog": "1.1.1 (2026-10-14): Próba mechanizmu aktualizacji z GitHuba – bez zmian w działaniu.\n\n1.1.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
   },
   "moveup-dostepnosc": {
     "name": "moveUP – Dostępność",
