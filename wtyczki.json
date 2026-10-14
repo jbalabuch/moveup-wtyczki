@@ -1,0 +1,46 @@
+{
+  "jadlospisy": {
+    "name": "Jadłospisy",
+    "version": "1.2.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/jadlospisy-1.2.0.zip",
+    "requires": "5.8",
+    "requires_php": "7.4",
+    "tested": "6.8",
+    "date": "2026-10-14",
+    "description": "Jadłospisy w PDF z zakresem dat. Pokazuje aktualny jadłospis i archiwum – jako blok, widżet albo shortcode [jadlospisy]; układ „karta” (uklad=\"karta\"): karta z przyciskiem PDF i rozwijane archiwum.",
+    "changelog": "1.2.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+  },
+  "moveup-agenci-ai": {
+    "name": "moveUP – Agenci AI",
+    "version": "1.1.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-agenci-ai-1.1.0.zip",
+    "requires": "6.2",
+    "requires_php": "7.4",
+    "tested": "6.8",
+    "date": "2026-10-14",
+    "description": "Strona czytelna dla asystentów AI: wersja Markdown każdej strony (nagłówek Accept: text/markdown albo ?format=markdown), plik /llms.txt z mapą strony, reguły dla botów AI i Content-Signal w robots.txt. Nic nie dokłada do zwykłych stron poza jednym znacznikiem <link>.",
+    "changelog": "1.1.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+  },
+  "moveup-dostepnosc": {
+    "name": "moveUP – Dostępność",
+    "version": "1.4.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-dostepnosc-1.4.0.zip",
+    "requires": "6.2",
+    "requires_php": "7.4",
+    "tested": "6.8",
+    "date": "2026-10-14",
+    "description": "Panel ułatwień dostępu (rozmiar tekstu, odstępy, kontrast, podświetlanie linków, wyraźny fokus, zatrzymanie animacji, czytanie na głos) i wyłączanie animacji na całej stronie. Lekki: na starcie strony tylko przycisk i kilka setek bajtów kodu, reszta wczytuje się po pierwszym użyciu.",
+    "changelog": "1.4.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+  },
+  "moveup-wydajnosc": {
+    "name": "moveUP – Wydajność",
+    "version": "1.3.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-wydajnosc-1.3.0.zip",
+    "requires": "6.5",
+    "requires_php": "7.4",
+    "tested": "6.8",
+    "date": "2026-10-14",
+    "description": "Poprawki szybkości strony, których nie da się ustawić w panelu: własne, odchudzone fonty z assets/fonty/fonty.json (@font-face w <head> zamiast osobnego CSS motywu Kadence), bez preloadu fontów Kadence, defer dla skryptów Kadence na końcu strony (animacje AOS, akordeon), małe pliki CSS z serwera strony wpisane w kod strony (bez kilkunastu zapytań blokujących wyświetlanie).",
+    "changelog": "1.3.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+  }
+}
