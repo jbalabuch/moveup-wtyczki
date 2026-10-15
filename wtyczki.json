@@ -1,14 +1,14 @@
 {
   "jadlospisy": {
     "name": "Jadłospisy",
-    "version": "1.2.0",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/jadlospisy-1.2.0.zip",
+    "version": "1.2.1",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/jadlospisy-1.2.1.zip",
     "requires": "5.8",
     "requires_php": "7.4",
     "tested": "6.8",
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "description": "Jadłospisy w PDF z zakresem dat. Pokazuje aktualny jadłospis i archiwum – jako blok, widżet albo shortcode [jadlospisy]; układ „karta” (uklad=\"karta\"): karta z przyciskiem PDF i rozwijane archiwum.",
-    "changelog": "1.2.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+    "changelog": "1.2.1 (2026-10-15): Archiwum w układzie „karta”: bez wcięcia listy z lewej (motyw dodawał je wszystkim listom), „Pobierz PDF” w jednej linii na telefonie.\n\n1.2.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
   },
   "moveup-agenci-ai": {
     "name": "moveUP – Agenci AI",
