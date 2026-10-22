@@ -32,6 +32,17 @@
     "description": "Panel ułatwień dostępu (rozmiar tekstu, odstępy, kontrast, podświetlanie linków, wyraźny fokus, zatrzymanie animacji, czytanie na głos) i wyłączanie animacji na całej stronie. Lekki: na starcie strony tylko przycisk i kilka setek bajtów kodu, reszta wczytuje się po pierwszym użyciu.",
     "changelog": "1.4.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
   },
+  "moveup-instrukcja": {
+    "name": "moveUP – Instrukcja",
+    "version": "1.0.1",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-instrukcja-1.0.1.zip",
+    "requires": "6.2",
+    "requires_php": "7.4",
+    "tested": "6.8",
+    "date": "2026-10-22",
+    "description": "Instrukcja obsługi strony w kokpicie: kafelki z ikonami (Kadra, Jadłospisy, Stopka…), po kliknięciu okno z opisem, co i gdzie edytować. Treść instrukcji dla każdej strony osobno – Ustawienia → Instrukcja (import pliku JSON).",
+    "changelog": "1.0.1 (2026-10-22): Pierwsza wersja: widżet „Instrukcja strony” na górze Kokpitu (kafelki z ikonami, okno z opisem), treść z Ustawienia → Instrukcja.\n\n"
+  },
   "moveup-wydajnosc": {
     "name": "moveUP – Wydajność",
     "version": "1.3.0",
