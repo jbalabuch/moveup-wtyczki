@@ -34,14 +34,14 @@
   },
   "moveup-instrukcja": {
     "name": "moveUP – Instrukcja",
-    "version": "1.0.1",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-instrukcja-1.0.1.zip",
+    "version": "1.1.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-instrukcja-1.1.0.zip",
     "requires": "6.2",
     "requires_php": "7.4",
     "tested": "6.8",
     "date": "2026-10-22",
-    "description": "Instrukcja obsługi strony w kokpicie: kafelki z ikonami (Kadra, Jadłospisy, Stopka…), po kliknięciu okno z opisem, co i gdzie edytować. Treść instrukcji dla każdej strony osobno – Ustawienia → Instrukcja (import pliku JSON).",
-    "changelog": "1.0.1 (2026-10-22): Pierwsza wersja: widżet „Instrukcja strony” na górze Kokpitu (kafelki z ikonami, okno z opisem), treść z Ustawienia → Instrukcja.\n\n"
+    "description": "Instrukcja obsługi strony w kokpicie: kafelki z ikonami (Kadra, Jadłospisy, Stopka…), po kliknięciu okno z opisem, co i gdzie edytować. Treść dla każdej strony osobno – Ustawienia → Instrukcja (edytor sekcji albo import JSON).",
+    "changelog": "1.1.0 (2026-10-22): Edytor instrukcji w panelu (Ustawienia → Instrukcja): tytuł, podpis, ikona z listy, kolejność, treść w edytorze tekstu, usuwanie i dodawanie sekcji; import/eksport JSON w „Zaawansowane”.\n\n1.0.1 (2026-10-22): Pierwsza wersja: widżet „Instrukcja strony” na górze Kokpitu (kafelki z ikonami, okno z opisem), treść z Ustawienia → Instrukcja.\n\n"
   },
   "moveup-wydajnosc": {
     "name": "moveUP – Wydajność",
