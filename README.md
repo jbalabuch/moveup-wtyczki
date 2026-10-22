@@ -8,6 +8,7 @@
 | moveUP – Agenci AI | Markdown dla asystentów AI, /llms.txt, reguły w robots.txt |
 | moveUP – Wydajność | odchudzone fonty, CSS w stronie, defer skryptów Kadence |
 | Jadłospisy | jadłospisy w PDF z zakresem dat (blok, widżet, shortcode) |
+| moveUP – Instrukcja | instrukcja obsługi strony w Kokpicie (kafelki z ikonami) |
 
 ## Zawartość
 
