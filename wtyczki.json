@@ -23,14 +23,14 @@
   },
   "moveup-dostepnosc": {
     "name": "moveUP – Dostępność",
-    "version": "1.4.0",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-dostepnosc-1.4.0.zip",
+    "version": "1.4.1",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-dostepnosc-1.4.1.zip",
     "requires": "6.2",
     "requires_php": "7.4",
     "tested": "6.8",
-    "date": "2026-10-14",
+    "date": "2026-11-10",
     "description": "Panel ułatwień dostępu (rozmiar tekstu, odstępy, kontrast, podświetlanie linków, wyraźny fokus, zatrzymanie animacji, czytanie na głos) i wyłączanie animacji na całej stronie. Lekki: na starcie strony tylko przycisk i kilka setek bajtów kodu, reszta wczytuje się po pierwszym użyciu.",
-    "changelog": "1.4.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+    "changelog": "1.4.1 (2026-11-10): Kontrast i kolory działają też na zdjęcia, filmy i osadzone mapy: kontrast ciemny i jasny – odcienie szarości z mocniejszym kontrastem, odwrócone kolory – zdjęcia także odwrócone (panel ułatwień zostaje czytelny).\n\n1.4.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
   },
   "moveup-instrukcja": {
     "name": "moveUP – Instrukcja",
