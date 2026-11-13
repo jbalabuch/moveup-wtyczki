@@ -45,13 +45,13 @@
   },
   "moveup-wydajnosc": {
     "name": "moveUP – Wydajność",
-    "version": "1.4.0",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-wydajnosc-1.4.0.zip",
+    "version": "1.5.1",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-wydajnosc-1.5.1.zip",
     "requires": "6.5",
     "requires_php": "7.4",
     "tested": "6.8",
-    "date": "2026-11-04",
-    "description": "Poprawki szybkości strony, których nie da się ustawić w panelu: własne, odchudzone fonty strony z wp-content/uploads/moveup-wydajnosc/fonty/fonty.json (albo – gdy tego folderu nie ma – z assets/fonty/ wtyczki) (@font-face w <head> zamiast osobnego CSS motywu Kadence), bez preloadu fontów Kadence, defer dla skryptów Kadence na końcu strony (animacje AOS, akordeon), małe pliki CSS z serwera strony wpisane w kod strony (bez kilkunastu zapytań blokujących wyświetlanie).",
-    "changelog": "1.4.0 (2026-11-04): Fonty strony z folderu wp-content/uploads/moveup-wydajnosc/fonty/ (własny fonty.json) – aktualizacje wtyczki ich nie nadpisują; bez tego folderu fonty z paczki, jak dotąd. Nowy filtr moveup_wydajnosc_fonty_folder.\n\n1.3.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+    "date": "2026-11-13",
+    "description": "Poprawki szybkości strony, których nie da się ustawić w panelu: własne, odchudzone fonty strony z wp-content/uploads/moveup-wydajnosc/fonty/fonty.json (albo – gdy tego folderu nie ma – z assets/fonty/ wtyczki) (@font-face w <head> zamiast osobnego CSS motywu Kadence), bez preloadu fontów Kadence, defer dla skryptów Kadence na końcu strony (animacje AOS, akordeon), małe pliki CSS z serwera strony wpisane w kod strony (bez kilkunastu zapytań blokujących wyświetlanie), preload obrazu LCP (np. tła hero) i limit wpisywanego CSS z wp-content/uploads/moveup-wydajnosc/ustawienia.json.",
+    "changelog": "1.5.1 (2026-11-13): Plik strony wp-content/uploads/moveup-wydajnosc/ustawienia.json: preload obrazu LCP odkrywanego dopiero z CSS (np. tło hero, osobno telefon/komputer przez media), własny limit CSS wpisywanego w stronę (inline_css_limit) i dodatkowe skrypty z defer. Bez tego pliku działa jak 1.4.0.\n\n1.4.0 (2026-11-04): Fonty strony z folderu wp-content/uploads/moveup-wydajnosc/fonty/ (własny fonty.json) – aktualizacje wtyczki ich nie nadpisują; bez tego folderu fonty z paczki, jak dotąd. Nowy filtr moveup_wydajnosc_fonty_folder.\n\n1.3.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
   }
 }
