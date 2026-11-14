@@ -10,6 +10,7 @@
 | Jadłospisy | jadłospisy w PDF z zakresem dat (blok, widżet, shortcode) |
 | moveUP – Instrukcja | instrukcja obsługi strony w Kokpicie (kafelki z ikonami) |
 | moveUP – Social | posty z Facebooka i Instagrama z kanałów RSS – siatka, karuzela, lista; zdjęcia na serwerze strony |
+| moveUP – Listy | listy wpisów w panelu (wywiady, konferencje, publikacje…) – własne pola, kategorie jako zakładki Kadence, wklejanie tekstu, przeciąganie, blok „Lista moveUP” |
 
 ## Zawartość
 
