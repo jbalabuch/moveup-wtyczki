@@ -9,6 +9,7 @@
 | moveUP – Wydajność | odchudzone fonty, CSS w stronie, defer skryptów Kadence |
 | Jadłospisy | jadłospisy w PDF z zakresem dat (blok, widżet, shortcode) |
 | moveUP – Instrukcja | instrukcja obsługi strony w Kokpicie (kafelki z ikonami) |
+| moveUP – Social | posty z Facebooka i Instagrama z kanałów RSS – siatka, karuzela, lista; zdjęcia na serwerze strony |
 
 ## Zawartość
 
