@@ -43,6 +43,17 @@
     "description": "Instrukcja obsługi strony w kokpicie: kafelki z ikonami (Kadra, Jadłospisy, Stopka…), po kliknięciu okno z opisem, co i gdzie edytować. Treść dla każdej strony osobno – Ustawienia → Instrukcja (edytor sekcji albo import JSON).",
     "changelog": "1.1.0 (2026-10-22): Edytor instrukcji w panelu (Ustawienia → Instrukcja): tytuł, podpis, ikona z listy, kolejność, treść w edytorze tekstu, usuwanie i dodawanie sekcji; import/eksport JSON w „Zaawansowane”.\n\n1.0.1 (2026-10-22): Pierwsza wersja: widżet „Instrukcja strony” na górze Kokpitu (kafelki z ikonami, okno z opisem), treść z Ustawienia → Instrukcja.\n\n"
   },
+  "moveup-social": {
+    "name": "moveUP – Social",
+    "version": "1.0.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-social-1.0.0.zip",
+    "requires": "6.5",
+    "requires_php": "7.4",
+    "tested": "",
+    "date": "2026-11-14",
+    "description": "Ostatnie posty z Facebooka i Instagrama (kanały RSS) na stronie – kilka profili w jednym feedzie, do wyboru siatka, karuzela albo lista, zdjęcia w wybranych proporcjach, data, godzina, tekst i link pod zdjęciem, obok niego albo na zdjęciu po najechaniu. Zdjęcia zapisywane na serwerze strony – odwiedzający nie łączą się z Facebookiem ani Instagramem. Ustawienia → Social, w treści: [moveup_social feed=\"…\"].",
+    "changelog": "1.0.0 (2026-11-14): Pierwsza wersja: posty z Facebooka i Instagrama z kanałów RSS (kilka źródeł w jednym feedzie), siatka, karuzela albo lista, zdjęcia w wybranych proporcjach, data, godzina, tekst i link pod zdjęciem, obok albo na zdjęciu po najechaniu, „Wczytaj więcej postów”, profile z przyciskiem „Obserwuj”; zdjęcia zapisywane na serwerze strony. Ustawienia → Social, shortcode [moveup_social feed=\"…\"].\n\n"
+  },
   "moveup-wydajnosc": {
     "name": "moveUP – Wydajność",
     "version": "1.6.0",
