@@ -43,6 +43,17 @@
     "description": "Instrukcja obsługi strony w kokpicie: kafelki z ikonami (Kadra, Jadłospisy, Stopka…), po kliknięciu okno z opisem, co i gdzie edytować. Treść dla każdej strony osobno – Ustawienia → Instrukcja (edytor sekcji albo import JSON).",
     "changelog": "1.1.0 (2026-10-22): Edytor instrukcji w panelu (Ustawienia → Instrukcja): tytuł, podpis, ikona z listy, kolejność, treść w edytorze tekstu, usuwanie i dodawanie sekcji; import/eksport JSON w „Zaawansowane”.\n\n1.0.1 (2026-10-22): Pierwsza wersja: widżet „Instrukcja strony” na górze Kokpitu (kafelki z ikonami, okno z opisem), treść z Ustawienia → Instrukcja.\n\n"
   },
+  "moveup-listy": {
+    "name": "moveUP – Listy",
+    "version": "1.1.0",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-listy-1.1.0.zip",
+    "requires": "6.5",
+    "requires_php": "7.4",
+    "tested": "",
+    "date": "2026-11-14",
+    "description": "Listy wpisów edytowane w panelu zamiast długich bloków tekstu: wywiady i występy w mediach (z kategoriami jako zakładki), konferencje i wydarzenia, publikacje. Dodawanie i edycja w kartach (także na telefonie), kolejność strzałkami, sortowanie po dacie, „Wklej z tekstu” – system sam rozpozna pola. Na stronie te same bloki Kadence co wcześniej. Menu Listy, ustawienia (do klikania): Ustawienia → Listy, na stronie: blok „Lista moveUP” albo [moveup_lista lista=\"…\"].",
+    "changelog": "1.1.0 (2026-11-14): Listy wpisów edytowane w panelu: pola definiowane dla każdej listy (też tylko w wybranych kategoriach), kategorie jako zakładki Kadence albo grupy, wklejanie tekstu z rozpoznawaniem pól, przeciąganie i sortowanie, ustawienia do klikania (wygląd, odstępy, nowa lista), blok „Lista moveUP”, link z podpowiedzią https://, data z kropkami i kalendarzem.\n\n"
+  },
   "moveup-social": {
     "name": "moveUP – Social",
     "version": "1.0.0",
