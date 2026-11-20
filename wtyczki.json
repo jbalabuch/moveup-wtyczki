@@ -56,14 +56,14 @@
   },
   "moveup-social": {
     "name": "moveUP – Social",
-    "version": "1.1.2",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-social-1.1.2.zip",
+    "version": "1.1.3",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-social-1.1.3.zip",
     "requires": "6.5",
     "requires_php": "7.4",
     "tested": "",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "description": "Ostatnie posty z Facebooka i Instagrama (kanały RSS) na stronie – kilka profili w jednym feedzie, do wyboru siatka, karuzela albo lista, zdjęcia w wybranych proporcjach, data, godzina, tekst i link pod zdjęciem, obok niego albo na zdjęciu po najechaniu. Zdjęcia zapisywane na serwerze strony – odwiedzający nie łączą się z Facebookiem ani Instagramem. Ustawienia → Social, w treści: [moveup_social feed=\"…\"].",
-    "changelog": "1.1.2 (2026-11-19): 1.1.0–1.1.2: zdjęcia postów 4:5 na serwerze strony, układ 4 posty w rzędzie, pasek przewijany palcem na telefonie, poprawki W3C (bez line-clamp, maska w pełnej składni).\n\n1.0.2 (2026-11-17): Opis na nakładce skracany skryptem (całe słowa + „…”, liczba linii z ustawień) zamiast -webkit-line-clamp – Safari przenosił emoji z miejsca cięcia do lewego górnego rogu nakładki.\n\n1.0.1 (2026-11-17): Opis na nakładce ukryty także przez visibility – w Safari emoji z opisu posta widać było w lewym górnym rogu zdjęcia mimo przezroczystej nakładki.\n\n1.0.0 (2026-11-14): Pierwsza wersja: posty z Facebooka i Instagrama z kanałów RSS (kilka źródeł w jednym feedzie), siatka, karuzela albo lista, zdjęcia w wybranych proporcjach, data, godzina, tekst i link pod zdjęciem, obok albo na zdjęciu po najechaniu, „Wczytaj więcej postów”, profile z przyciskiem „Obserwuj”; zdjęcia zapisywane na serwerze strony. Ustawienia → Social, shortcode [moveup_social feed=\"…\"].\n\n"
+    "changelog": "1.1.3 (2026-11-20): 1.1.3: sekcja „Nazwa profilu przy poście” (link do profilu, ikona serwisu, kolor, rozmiar komputer/telefon, wysokość linii, grubość, podkreślenie), wysokość linii tekstu na telefonie, odstęp nazwa → data, kolor daty, odstęp między postami do 80 px. Domyślnie wygląd jak w 1.1.2.\n\n1.1.2 (2026-11-19): 1.1.0–1.1.2: zdjęcia postów 4:5 na serwerze strony, układ 4 posty w rzędzie, pasek przewijany palcem na telefonie, poprawki W3C (bez line-clamp, maska w pełnej składni).\n\n1.0.2 (2026-11-17): Opis na nakładce skracany skryptem (całe słowa + „…”, liczba linii z ustawień) zamiast -webkit-line-clamp – Safari przenosił emoji z miejsca cięcia do lewego górnego rogu nakładki.\n\n1.0.1 (2026-11-17): Opis na nakładce ukryty także przez visibility – w Safari emoji z opisu posta widać było w lewym górnym rogu zdjęcia mimo przezroczystej nakładki.\n\n1.0.0 (2026-11-14): Pierwsza wersja: posty z Facebooka i Instagrama z kanałów RSS (kilka źródeł w jednym feedzie), siatka, karuzela albo lista, zdjęcia w wybranych proporcjach, data, godzina, tekst i link pod zdjęciem, obok albo na zdjęciu po najechaniu, „Wczytaj więcej postów”, profile z przyciskiem „Obserwuj”; zdjęcia zapisywane na serwerze strony. Ustawienia → Social, shortcode [moveup_social feed=\"…\"].\n\n"
   },
   "moveup-wydajnosc": {
     "name": "moveUP – Wydajność",
