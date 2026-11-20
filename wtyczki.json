@@ -23,14 +23,14 @@
   },
   "moveup-dostepnosc": {
     "name": "moveUP – Dostępność",
-    "version": "1.6.7",
-    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-dostepnosc-1.6.7.zip",
+    "version": "1.6.8",
+    "package": "https://raw.githubusercontent.com/jbalabuch/moveup-wtyczki/main/paczki/moveup-dostepnosc-1.6.8.zip",
     "requires": "6.2",
     "requires_php": "7.4",
     "tested": "6.8",
     "date": "2026-11-20",
     "description": "Panel ułatwień dostępu (rozmiar tekstu, odstępy, kontrast, podświetlanie linków, wyraźny fokus, zatrzymanie animacji, czytanie na głos) i wyłączanie animacji na całej stronie. Lekki: na starcie strony tylko przycisk i kilka setek bajtów kodu, reszta wczytuje się po pierwszym użyciu.",
-    "changelog": "1.6.7 (2026-11-20): 1.6.7: pole „Tło pasa z przyciskiem” przy odsłuchu strony – kolor na całą szerokość ekranu, bez jaśniejszego pasa między nagłówkiem a pierwszą sekcją. Puste – jak w 1.6.6.\n\n1.6.6 (2026-11-20): 1.6.6: opcja „Na telefonie karuzele nie przewijają się same” (Ustawienia → Dostępność) – do 767 px karuzele Splide bez autoodtwarzania i bez przycisku pauzy; palec, strzałki i kropki działają. Domyślnie wyłączona.\n\n1.6.5 (2026-11-19): 1.5.0–1.6.5: opcjonalny pasek ułatwień u góry strony z podpowiedziami, odsłuch strony głosem przeglądarki, pasek pod paskiem administracyjnym, „Zatrzymaj animacje” pauzuje karuzele Splide, karuzele bez niedozwolonych ról ARIA (Lighthouse: przeglądanie agentowe).\n\n1.4.1 (2026-11-10): Kontrast i kolory działają też na zdjęcia, filmy i osadzone mapy: kontrast ciemny i jasny – odcienie szarości z mocniejszym kontrastem, odwrócone kolory – zdjęcia także odwrócone (panel ułatwień zostaje czytelny).\n\n1.4.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
+    "changelog": "1.6.8 (2026-11-20): 1.6.8: opcja „Karuzele zatrzymują się po najechaniu myszką” – Kadence wypisuje w karuzelach pauzę po najechaniu wyłączoną, a jego skrypt czyta inną nazwę atrybutu; wtyczka ustawia oba atrybuty (Splide pauseOnHover, przy fokusie klawiatury też). Domyślnie wyłączona.\n\n1.6.7 (2026-11-20): 1.6.7: pole „Tło pasa z przyciskiem” przy odsłuchu strony – kolor na całą szerokość ekranu, bez jaśniejszego pasa między nagłówkiem a pierwszą sekcją. Puste – jak w 1.6.6.\n\n1.6.6 (2026-11-20): 1.6.6: opcja „Na telefonie karuzele nie przewijają się same” (Ustawienia → Dostępność) – do 767 px karuzele Splide bez autoodtwarzania i bez przycisku pauzy; palec, strzałki i kropki działają. Domyślnie wyłączona.\n\n1.6.5 (2026-11-19): 1.5.0–1.6.5: opcjonalny pasek ułatwień u góry strony z podpowiedziami, odsłuch strony głosem przeglądarki, pasek pod paskiem administracyjnym, „Zatrzymaj animacje” pauzuje karuzele Splide, karuzele bez niedozwolonych ról ARIA (Lighthouse: przeglądanie agentowe).\n\n1.4.1 (2026-11-10): Kontrast i kolory działają też na zdjęcia, filmy i osadzone mapy: kontrast ciemny i jasny – odcienie szarości z mocniejszym kontrastem, odwrócone kolory – zdjęcia także odwrócone (panel ułatwień zostaje czytelny).\n\n1.4.0 (2026-10-14): Aktualizacje z GitHuba: wtyczka sama sprawdza nowe wersje i pokazuje je w Kokpit → Aktualizacje.\n\n"
   },
   "moveup-instrukcja": {
     "name": "moveUP – Instrukcja",
